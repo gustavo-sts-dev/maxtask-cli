@@ -1,0 +1,18 @@
+{
+  "name": "maxtask",
+  "version": "0.0.5",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx src/index.ts"
+  },
+  "author": "gustavo-sts-dev",
+  "license": "MIT",
+  "packageManager": "pnpm@10.32.1",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "prettier": "3.9.10",
+    "tsc-alias": "^1.9.10",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
